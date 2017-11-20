@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public void sayHello() {
 		
-		System.out.println("Hello World Modified and pushed to git. Again Modified");
+		System.out.println("Hello World Git Auto Push");
 
 	}
 
