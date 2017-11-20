@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public void sayHello() {
 		
-		System.out.println("Hello World Git Auto Pushing");
+		System.out.println("Hello World Changes to test the polling");
 
 	}
 
