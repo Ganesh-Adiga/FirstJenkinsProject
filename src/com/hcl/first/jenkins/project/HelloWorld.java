@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public void sayHello() {
 		
-		System.out.println("Hello World Git Auto Push");
+		System.out.println("Hello World Git Auto Pushing");
 
 	}
 
