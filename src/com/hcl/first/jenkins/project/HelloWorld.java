@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public void sayHello() {
 		
-		System.out.println("Testing the Jenkins and Git integration from another repo");
+		System.out.println("Testing the Automatic Build Trigger in Jenkins");
 
 	}
 
