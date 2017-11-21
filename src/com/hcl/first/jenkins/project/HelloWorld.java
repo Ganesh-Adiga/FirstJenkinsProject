@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public void sayHello() {
 		
-		System.out.println("Hello World Polling Test 2");
+		System.out.println("Testing the Jenkins and Git integration from another repo");
 
 	}
 
