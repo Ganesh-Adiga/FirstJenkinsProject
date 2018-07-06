@@ -5,6 +5,8 @@ public class HelloWorld {
 	public void sayHello() {
 		
 		System.out.println("Testing the Automatic Build Trigger in Jenkins test review again");
+		System.out.println("Hello from eclipse");
+
 
 	}
 
